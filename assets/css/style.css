@@ -502,7 +502,7 @@ header.scrolled {
   height: auto;
   background-repeat: no-repeat;
   background-size: cover;
-  /* overflow: hidden; */
+  /*overflow: hidden; */
 }
 
 .banner .banner-content {
