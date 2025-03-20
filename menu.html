@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Fino Tratto - Menu</title>
+    <title>Restoran - Menu</title>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
@@ -23,8 +23,8 @@
   </head>
   <body>
     <div class="loader">
-      <img class ="img img-fluid mt-5 mt-lg-0" src="./assets/images/your_logo.png" alt=""></i>
-      <p>Fino Tratto</p>
+      <i class="fas fa-utensils loader-icone"></i>
+      <p>Restoran</p>
       <div class="loader-ellipses">
         <span></span>
         <span></span>
@@ -37,10 +37,9 @@
         <div class="logo">
           <a href="./index.html">
             <i class="fa fa-utensils me-3 text-dark"></i>
-            <h1 class="mb-0 text-dark">Fino Tratto</h1>
+            <h1 class="mb-0 text-dark">Restoran</h1>
           </a>
         </div>
-        <!--
         <div class="menus">
           <ul class="d-flex mb-0">
             <li class="list-unstyled py-2">
@@ -50,7 +49,12 @@
             </li>
             <li class="list-unstyled py-2">
               <a class="text-decoration-none text-uppercase p-4 text-dark" href="./about.html"
-                >La Nostra Storia</a
+                >About</a
+              >
+            </li>
+            <li class="list-unstyled py-2">
+              <a class="text-decoration-none text-uppercase p-4 text-dark" href="./reservation.html"
+                >Reservation</a
               >
             </li>
             <li class="list-unstyled py-2">
@@ -58,9 +62,23 @@
                 >Menu</a
               >
             </li>
+            <li class="list-unstyled py-2">
+              <a class="text-decoration-none text-uppercase p-4 text-dark" href="./contact.html"
+                >Contact</a
+              >
+            </li>
           </ul>
         </div>
-      -->
+        <div class="icons">
+          <a class="text-decoration-none" id="searchBtn" href="#">
+            <i class="fa fa-search me-3 text-dark"></i>
+          </a>
+          <a class="text-decoration-none" id="shoppingbutton" href="#">
+            <i class="fa fa-shopping-bag me-3 text-dark"></i>
+          </a>
+        </div>
+      </div>
+
       <div class="d-flex justify-content-around py-3 align-items-center d-lg-none">
         <div id="hamburger">
           <i class="fa fa-2x fa-bars me-3 text-dark"></i>
@@ -70,6 +88,16 @@
             <a href="./index.html">
               <i class="fa fa-utensils me-3 text-dark"></i>
               <h1 class="mb-0 text-dark">Restoran</h1>
+            </a>
+          </div>
+        </div>
+        <div class="mobile-nav-icons">
+          <div class="icons">
+            <a class="text-decoration-none" id="searchBtnMobile" href="#">
+              <i class="fa fa-search me-3 text-dark"></i>
+            </a>
+            <a class="text-decoration-none" id="shoppingbuttonMobile" href="#">
+              <i class="fa fa-shopping-bag me-3 text-dark"></i>
             </a>
           </div>
         </div>
@@ -109,6 +137,113 @@
         </div>
       </div>
     </header>
+
+    <div class="search-bar d-none" id="search-container">
+      <div class="close-btn" id="search-close-btn">
+        <i class="fa fa-close"></i>
+      </div>
+      <div class="search-bar-wrapper">
+        <input type="search" placeholder="Enter any text here..." />
+        <div class="search-button">
+          <a href="#"><i class="fa fa-search"></i></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="shopping-cart">
+      <div class="shopping-cart-header d-flex justify-content-between">
+        <h2>Review your Cart</h2>
+        <i class="fa fa-close"></i>
+      </div>
+      <div class="shopping-cart-body">
+        <div class="row shopping-cart-item d-flex justify-content-between">
+          <div class="col-2 d-flex align-items-center">
+            <img src="./assets/images/product-2a.jpg" alt="">
+          </div>
+          <div class="col-8">
+            <h3>The Cracker Barrel's Country Boy Breakfast</h3>
+            <div class="shopping-cart-counter">
+              <i class="fa fa-minus"></i>
+              <span>1</span>
+              <i class="fa fa-plus"></i>
+            </div>
+          </div>
+          <div class="col-2 item-price d-flex align-items-end">
+            <p class="mb-0 text-center">$ 25.0</p>
+          </div>
+        </div>
+        <div class="row shopping-cart-item d-flex justify-content-between">
+          <div class="col-2 d-flex align-items-center">
+            <img src="./assets/images/product-2b.jpg" alt="">
+          </div>
+          <div class="col-8">
+            <h3>Old Timer's Meat Breakfast</h3>
+            <div class="shopping-cart-counter">
+              <i class="fa fa-minus"></i>
+              <span>1</span>
+              <i class="fa fa-plus"></i>
+            </div>
+          </div>
+          <div class="col-2 item-price d-flex align-items-end">
+            <p class="mb-0 text-center">$ 12.0</p>
+          </div>
+        </div>
+        <div class="row shopping-cart-item d-flex justify-content-between">
+          <div class="col-2 d-flex align-items-center">
+            <img src="./assets/images/product-2c.jpg" alt="">
+          </div>
+          <div class="col-8">
+            <h3>Uncle Herschel's Favorite</h3>
+            <div class="shopping-cart-counter">
+              <i class="fa fa-minus"></i>
+              <span>1</span>
+              <i class="fa fa-plus"></i>
+            </div>
+          </div>
+          <div class="col-2 item-price d-flex align-items-end">
+            <p class="mb-0 text-center">$ 25.0</p>
+          </div>
+        </div>
+        <div class="row shopping-cart-item d-flex justify-content-between">
+          <div class="col-2 d-flex align-items-center">
+            <img src="./assets/images/product-2d.jpg" alt="">
+          </div>
+          <div class="col-8">
+            <h3>Grandpa's Country Fried Breakfast</h3>
+            <div class="shopping-cart-counter">
+              <i class="fa fa-minus"></i>
+              <span>1</span>
+              <i class="fa fa-plus"></i>
+            </div>
+          </div>
+          <div class="col-2 item-price d-flex align-items-end">
+            <p class="mb-0 text-center">$ 30.0</p>
+          </div>
+        </div>
+      </div>
+      <div class="shopping-cart-footer">
+        <div class="d-flex justify-content-between px-3 py-2">
+          <div>
+            <h2 class="mb-0">Subtotal</h2>
+            <p class="mb-0">Shipping & taxes calculated at checkout</p>
+          </div>
+          <div class="d-flex align-items-end">
+            <p class="footet-total-price mb-0">$ 92.0</p>
+          </div>
+        </div>
+          <div class="d-flex justify-content-between px-2">
+            <div class="footer-checkout">
+              <div class="anim-layer"></div>
+              <a href="#">Checkout</a>
+            </div>
+            <div class="footer-shopping">
+              <div class="anim-layer"></div>
+              <a href="#">Continue Shopping</a>
+            </div>
+          </div>
+      </div>
+    </div>
+
     <main class="menu-page">
         <section class="page-banner d-flex align-items-center">
           <div class="container"> 
