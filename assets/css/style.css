@@ -1,70 +1,70 @@
-/* Heebo Fonts */
+/* Playfair Fonts */
 @font-face {
-  font-family: "Heebo";
-  src: url("./../fonts/Heebo/Heebo-VariableFont_wght.ttf") format("truetype");
+  font-family: "Playfair";
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Heebo";
-  src: url("./../fonts/Heebo/static/Heebo-Black.ttf") format("truetype");
+  font-family: "Playfair";
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Heebo";
-  src: url("./../fonts/Heebo/static/Heebo-Bold.ttf") format("truetype");
+  font-family: "Playfair";
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Heebo";
-  src: url("./../fonts/Heebo/static/Heebo-ExtraBold.ttf") format("truetype");
+  font-family: "Playfair";
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: 800;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Heebo";
-  src: url("./../fonts/Heebo/static/Heebo-ExtraLight.ttf") format("truetype");
+  font-family: "Playfair";
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Heebo";
-  src: url("./../fonts/Heebo/static/Heebo-Light.ttf") format("truetype");
+  font-family: "Playfair";
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Heebo";
-  src: url("./../fonts/Heebo/static/Heebo-Medium.ttf") format("truetype");
+  font-family: "Playfair";
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Heebo";
-  src: url("./../fonts/Heebo/static/Heebo-Regular.ttf") format("truetype");
+  font-family: "Playfair";
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Heebo";
-  src: url("./../fonts/Heebo/static/Heebo-SemiBold.ttf") format("truetype");
+  font-family: "Playfair";
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Heebo";
-  src: url("./../fonts/Heebo/static/Heebo-Thin.ttf") format("truetype");
+  font-family: "Playfair";
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: 100;
   font-style: normal;
 }
@@ -72,7 +72,7 @@
 /* Nunito Fonts */
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/Nunito-Italic-VariableFont_wght.ttf")
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf")
     format("truetype");
   font-weight: normal;
   font-style: italic;
@@ -80,7 +80,7 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/Nunito-VariableFont_wght.ttf")
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf")
     format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -88,7 +88,7 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-ExtraLightItalic.ttf")
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf")
     format("truetype");
   font-weight: 200;
   font-style: italic;
@@ -96,21 +96,21 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-Italic.ttf") format("truetype");
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-Light.ttf") format("truetype");
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-LightItalic.ttf")
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf")
     format("truetype");
   font-weight: 300;
   font-style: italic;
@@ -118,14 +118,14 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-Medium.ttf") format("truetype");
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-MediumItalic.ttf")
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf")
     format("truetype");
   font-weight: 500;
   font-style: italic;
@@ -133,21 +133,21 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-Regular.ttf") format("truetype");
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-SemiBold.ttf") format("truetype");
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-SemiBoldItalic.ttf")
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf")
     format("truetype");
   font-weight: 600;
   font-style: italic;
@@ -155,14 +155,14 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-Black.ttf") format("truetype");
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-BlackItalic.ttf")
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf")
     format("truetype");
   font-weight: 900;
   font-style: italic;
@@ -170,14 +170,14 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-Bold.ttf") format("truetype");
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-BoldItalic.ttf")
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf")
     format("truetype");
   font-weight: bold;
   font-style: italic;
@@ -185,7 +185,7 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-ExtraBold.ttf")
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf")
     format("truetype");
   font-weight: 800;
   font-style: normal;
@@ -193,7 +193,7 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-ExtraBoldItalic.ttf")
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf")
     format("truetype");
   font-weight: 800;
   font-style: italic;
@@ -201,7 +201,7 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("./../fonts/Nunito/static/Nunito-ExtraLight.ttf")
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf")
     format("truetype");
   font-weight: 200;
   font-style: normal;
@@ -210,16 +210,16 @@
 /* Pacifico Font */
 @font-face {
   font-family: "Pacifico";
-  src: url("./../fonts/Pacifico/Pacifico-Regular.ttf") format("truetype");
+  src: url("./../fonts/Playfair/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 /* Color Variables */
 :root {
-  --primary-color: #e5612f; /* Example Primary Color */
-  --secondary-color: #6c757d; /* Example Secondary Color */
-  --background-color: #eef0f1; /* Example Background Color */
+  --primary-color: #000000; /* Example Primary Color */
+  --secondary-color: #FFD700; /* Example Secondary Color */
+  --background-color: #FFD700; /* Example Background Color */
   --text-color: #212529; /* Example Text Color */
   --heading-color: #343a40; /* Example Heading Color */
   --border-color: #dee2e6; /* Example Border Color */
@@ -266,7 +266,7 @@ h5 {
 p,
 a,
 span {
-  font-family: "Heebo", sans-serif;
+  font-family: "Playfair", sans-serif;
   font-weight: 400;
 }
 
@@ -452,7 +452,7 @@ header.scrolled {
 }
 
 .menus > ul > li > a {
-  font-family: "Heebo", sans-serif;
+  font-family: "Playfair", sans-serif;
   color: var(--text-color-white);
 }
 
@@ -460,258 +460,6 @@ header.scrolled {
   font-size: 18px;
   color: var(--text-color-white);
 }
-
-/* Search bar */
-
-.search-bar {
-  display: flex;
-  position: fixed;
-  width: 100%;
-  height: 100vh;
-  background-color: black;
-  z-index: 9;
-  justify-content: center;
-  align-items: center;
-  top: -100%;
-  transition: top 0.5s ease-in-out;
-}
-
-.search-bar.show {
-  top: 0;
-}
-
-.close-btn{
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  cursor: pointer;
-  color: white;
-}
-
-.close-btn i {
-  font-size: 40px;
-}
-
-.search-bar-wrapper {
-  display: flex;
-  height: 60px;
-  width: 80%;
-  /* border: #e5612f 1px solid; */
-  border-radius: 30px;
-}
-
-.search-bar input {
-  width: 90%;
-  padding: 0px 20px;
-  height: 60px;
-  outline: none;
-  border: none;
-  border-top-left-radius: 30px;
-  border-bottom-left-radius: 30px;
-}
-
-.search-bar a {
-  text-decoration: none;
-  color: var(--text-color-white);
-  font-size: 26px;
-}
-
-.search-bar .search-button {
-  width: 80px;
-  height: 60px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: var(--primary-color);
-  border-top-right-radius: 30px;
-  border-bottom-right-radius: 30px;
-}
-/* Search bar */
-
-/* shopping cart start */
-
-.shopping-cart {
-  position: fixed;
-  width: 450px;
-  height: 100vh;
-  right: -100vw;
-  background-color: white;
-  box-shadow: 7px 5px 15px -4px rgba(0, 0, 0, 0.75);
-  z-index: 9;
-  transition: right 0.5s ease-in-out;
-}
-
-.shopping-cart-header {
-  padding: 16px 18px;
-  box-shadow: 7px 5px 15px -4px rgba(0, 0, 0, 0.10);
-}
-
-.shopping-cart-header h2 {
-  font-family: "Pacifico", cursive;
-  font-weight: 300;
-  font-size: 24px;
-}
-.shopping-cart-header i {
-  cursor: pointer;
-  font-size: 34px;
-}
-
-.shopping-cart-counter {
-  display: flex;
-}
-
-.shopping-cart-item {
-  padding: 20px 10px;
-  border-bottom: 1px solid var(--primary-color);
-}
-
-.shopping-cart-item img {
-  height: 50px;
-  width: 50px;
-  border-radius: 40px;
-}
-
-.shopping-cart-item h3 {
-  font-size: 14px;
-}
-
-.shopping-cart-item .item-price p, .shopping-cart-footer .footet-total-price{
-  font-family: "Pacifico", cursive;
-  font-size: 18px;
-  color: var(--primary-color);
-}
-
-.shopping-cart-counter i {
-  width: 20px;
-  height: 20px;
-  background-color: var(--primary-color);
-  color: var(--text-color-white);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 50%;
-}
-
-.shopping-cart-counter span {
-  padding: 0px 10px;
-}
-
-.shopping-cart-footer {
-  background-color: var(--text-color-white);
-  position: absolute;
-  width: 100%;
-  bottom: 0px;
-  box-shadow: 7px 5px 15px -4px rgba(0, 0, 0, 0.75);
-  z-index: 11;
-}
-
-.shopping-cart-footer h2 {
-  font-size: 20px;
-}
-
-.shopping-cart-body {
-  height: 65vh;
-  overflow-y:auto;
-  overflow-x: hidden;
-}
-
-.shopping-cart-body::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-  border-radius: 10px;
-  background-color: #f5f5f5;
-}
-
-.shopping-cart-body::-webkit-scrollbar {
-  width: 12px;
-  background-color: #f5f5f5;
-}
-
-.shopping-cart-body::-webkit-scrollbar-thumb {
-  border-radius: 10px;
-  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-  background-color: var(--primary-color);
-}
-
-.footer-checkout, .footer-shopping {
-  background-color: var(--primary-color);
-  width: 200px;
-  text-align: center;
-  margin: 10px 0px;
-  border-radius: 50px;
-  position: relative;
-  display: inline-block;
-  overflow: hidden;
-  cursor: pointer;
-  border: 2px solid var(--primary-color);
-}
-
-.footer-shopping {
-  background-color: transparent;
-}
-
-.footer-checkout > .anim-layer, .footer-shopping > .anim-layer{
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 0;
-  height: 100%;
-  background-color: white;
-  transition: width 0.3s ease, right 0.3s ease;
-}
-
-.footer-shopping > .anim-layer {
-  background-color: var(--primary-color);
-}
-
-.footer-checkout:hover > .anim-layer, .footer-shopping:hover > .anim-layer {
-  width: 100%;
-  left: 0;
-  right: auto;
-}
-
-.footer-checkout:hover a, .footer-shopping:hover a {
-  color: #141214;
-}
-
-.footer-shopping:hover a {
-  color: var(--text-color-white);
-}
-
-.footer-checkout a, .footer-shopping a {
-  display: block;
-  font-size: 14px;
-  font-family: "Nunito", sans-serif;
-  font-weight: 500;
-  text-transform: uppercase;
-  padding: 14px 24px;
-  color: white;
-  text-decoration: none;
-  position: relative;
-  z-index: 1;
-}
-
-.footer-shopping a {
-  color: black;
-}
-
-@media (max-width: 990px) {
-  .shopping-cart-item h3, .shopping-cart-footer p {
-    font-size: 12px;
-  }
-
-  .footer-checkout a, .footer-shopping a {
-    font-size: 10px;
-  }
-}
-
-@media (max-width: 500px) {
-  .shopping-cart {
-    width: 100%;
-    height: 92vh;
-  }
-}
-
-/* shopping cart end */
 
 /* Header End */
 
@@ -748,7 +496,7 @@ header.scrolled {
 
 /* Banner Start */
 .banner {
-  background-image: url("./../images/banner.jpg");
+  background-image: url("./../images/NewBanner.jpg");
   /* opacity: 0.8; */
   width: 100%;
   height: auto;
@@ -902,7 +650,7 @@ header.scrolled {
 
 /* about us start */
 .about-us {
-  background-image: url("./../images/about-bg.jpg");
+  background-image: url("./../images/ChiSiamo_background.jpg");
   background-position: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -1684,7 +1432,7 @@ footer {
   padding-top: 100px;
   padding-bottom: 40px;
   background-color: #040609;
-  background-image: url("./../images/footer-bg.jpg");
+  background-image: url("./../images/Contatti_bg.jpeg");
 }
 
 footer .social-icons a {
@@ -1705,12 +1453,12 @@ footer .footer-content .content-desc {
 
 footer p {
   font-size: 14px;
-  color: #bcbac1;
+  color: #000000;
 }
 
 .reservation-box {
   margin-top: -130px;
-  background-image: url("./../images/ft-res-bg.jpg");
+  background-image: url("./../images/orari_bg.jpeg");
   padding: 25px;
 }
 
@@ -1723,7 +1471,7 @@ footer p {
   font-family: "Pacifico", cursive;
   font-weight: 300;
   padding-bottom: 20px;
-  color: white;
+  color: black;
   text-align: center;
 }
 
@@ -1733,7 +1481,7 @@ footer p {
 }
 
 .reservation-box .reservation-wrapper p {
-  color: white;
+  color: black;
 }
 
 @media screen and (max-width: 1200px) {
@@ -2218,7 +1966,7 @@ footer p {
 }
 
 .about-page .testimonials {
-  background-image: url('./../images/about-bg.jpg');
+  background-image: url('./../images/ChiSiamo_background.jpg');
 }
 
 
@@ -2393,7 +2141,7 @@ footer p {
 /* menu page start */
 
 .menu-page .page-banner{
-  background-image: url('./../images/pagetitle-menu.jpg');
+  background-image: url('./../images/Menu_bg.jpg');
 }
 
 /* chef choice start */
