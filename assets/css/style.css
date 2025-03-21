@@ -1432,7 +1432,7 @@ footer {
   padding-top: 100px;
   padding-bottom: 40px;
   background-color: #040609;
-  background-image: url("./../images/Contatti_bg.jpeg");
+  background-image: url("./../images/orari_bg.jpeg");
 }
 
 footer .social-icons a {
@@ -1458,7 +1458,7 @@ footer p {
 
 .reservation-box {
   margin-top: -130px;
-  background-image: url("./../images/orari_bg.jpeg");
+  background-image: url("./../images/Contatti_bg.jpeg");
   padding: 25px;
 }
 
@@ -1477,7 +1477,7 @@ footer p {
 
 .reservation-box .reservation-wrapper h3 {
   text-align: center;
-  color: var(--text-color-white);
+  color: var(--text-color-black);
 }
 
 .reservation-box .reservation-wrapper p {
