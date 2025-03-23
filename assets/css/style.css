@@ -218,12 +218,12 @@
 /* Color Variables */
 :root {
   --primary-color: #000000; /* Example Primary Color */
-  --secondary-color: #FFD700; /* Example Secondary Color */
-  --background-color: #FFD700; /* Example Background Color */
-  --text-color: #212529; /* Example Text Color */
-  --heading-color: #343a40; /* Example Heading Color */
-  --border-color: #dee2e6; /* Example Border Color */
-  --text-color-white: #ffff;
+  --secondary-color: #000000; /* Example Secondary Color */
+  --background-color: #000000; /* Example Background Color */
+  --text-color: #000000; /* Example Text Color */
+  --heading-color: #000000; /* Example Heading Color */
+  --border-color: #ffffff; /* Example Border Color */
+  --text-color-white: #ffffff;
 }
 
 /* Applying Fonts and Colors to Elements */
